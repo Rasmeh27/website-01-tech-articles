@@ -19,9 +19,7 @@ export default function Nav() {
     <nav className="p-4 bg-gray-700 text-white">
       <ul className="flex space-x-20 items-center">
       <li>
-          <Link className="flex items-center space-x-2">
-            <CategoryDropdown />
-          </Link>
+          <CategoryDropdown />
         </li>
         <li>
           <Link to="/" className="flex items-center space-x-2">

@@ -19,6 +19,10 @@ export default function AppRoutes() {
         <Route path="/productos" element={<TopGadgets2025 />} />
         <Route path="/computers" element={<Computer />} />
         <Route path="/laptops" element={<Laptops />} />
+
+        <Route path="/categorias/laptops" element={<Laptops />} />
+        <Route path="/categorias/computers" element={<Computer />} />
+        <Route path="/categorias/productos" element={<TopGadgets2025 />} />
       </Routes>
       <Footer />
     </BrowserRouter>
