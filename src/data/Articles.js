@@ -4,7 +4,7 @@ export const articles = [
     id: 1,
     title: "Las 7 Mejores Laptops Gaming para 2025",
     slug: "mejores-laptops-gaming-2025",
-    image: "/src/assets/laptop.jpg", // asegúrate de tener la imagen en public/assets o usar una URL
+    image: "https://i.pcmag.com/imagery/roundups/01hiB08j7yaJGJmPl2YhRRH-59..v1713199550.jpg", // asegúrate de tener la imagen en public/assets o usar una URL
     summary:
       "Descubre las mejores opciones de laptops gaming para este 2025, con alto rendimiento y buen precio.",
     date: "2025-04-08",
@@ -36,7 +36,7 @@ export const articles = [
     id: 2,
     title: "Las 7 Mejores computadoras para el trabajo en 2025",
     slug: "mejores-computadoras-trabajo-2025",
-    image: "/src/assets/pc_work.jpg", // asegúrate de tener la imagen en public/assets o usar una URL
+    image: "https://mx-media.hptiendaenlinea.com/magefan_blog/Estaci_n_de_trabajo_Desktop_cu_l_deber_as_escoger_para_tu_negocio.jpg", // asegúrate de tener la imagen en public/assets o usar una URL
     summary:
       "¿Buscas una computadora para trabajar en casa o la oficina? Mira estas 7 opciones con gran balance entre precio y potencia.",
     date: "2025-04-06",
@@ -68,7 +68,7 @@ export const articles = [
     id: 3,
     title: "Las 7 Mejores computadoras para Estudiar en 2025",
     slug: "mejores-computadoras-estudiar-2025",
-    image: "/src/assets/student.jpg",
+    image: "https://hiraoka.com.pe/media/mageplaza/blog/post/l/a/laptops_para_estudiantes.jpg",
     summary:
       "¿Buscas una computadora para estudiar? Mira estas 7 opciones con gran balance entre precio y potencia.",
     date: "2025-04-06",
