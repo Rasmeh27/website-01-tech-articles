@@ -1,16 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import {
-  FaSearch,
-  FaHeart,
-  FaShoppingCart,
-  FaUser,
-  FaHome,
-  FaThLarge,
-  FaLaptop,
-  FaDesktop,
-  FaTabletAlt 
-} from "react-icons/fa";
+
 import CategoryDropdown from "./CategoryDropDown";
 
 

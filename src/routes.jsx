@@ -7,6 +7,8 @@ import Footer from "./components/Footer"; //Importar el componente Footer
 import TopGadgets2025 from "./pages/TopGadgets2025";
 import Computer from "./pages/Computers";
 import Laptops from "./pages/Laptops";
+import PoliticaPrivacidad from "./pages/politicas";
+import AcercaDe from "./pages/About";
 
 export default function AppRoutes() {
   return (
@@ -23,6 +25,9 @@ export default function AppRoutes() {
         <Route path="/categorias/laptops" element={<Laptops />} />
         <Route path="/categorias/computers" element={<Computer />} />
         <Route path="/categorias/productos" element={<TopGadgets2025 />} />
+        <Route path="/politicas" element={<PoliticaPrivacidad />} />
+        <Route path="/about" element={<AcercaDe />} />
+        <Route path="*" element={<h1>404 Not Found</h1>} />
       </Routes>
       <Footer />
     </BrowserRouter>

@@ -1,16 +1,6 @@
 import React, { useState } from "react";
-import {
-    FaSearch,
-    FaHeart,
-    FaShoppingCart,
-    FaUser,
-    FaHome,
-    FaThLarge,
-    FaLaptop,
-    FaDesktop,
-    FaTabletAlt 
-  } from "react-icons/fa";
-  import { useNavigate } from "react-router-dom";
+import { FaThLarge } from "react-icons/fa";
+import { useNavigate } from "react-router-dom";
 
   const categories = [
     { name: "Laptops", path: "/categorias/laptops" },
