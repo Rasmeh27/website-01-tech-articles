@@ -12,7 +12,7 @@ export const articles = [
     content: `
           <h2>1. ASUS ROG Zephyrus G16</h2>
           <p>Combina un diseño delgado con componentes potentes: procesadores Intel Core Ultra, GPUs NVIDIA RTX serie 40, pantalla OLED de 240Hz y sistema de refrigeración avanzado. Ofrece el equilibrio perfecto entre portabilidad y rendimiento.</p>
-      
+
           <h2>2. Dell XPS 13</h2>
           <p>Una de las mejores ultrabooks Windows con pantalla casi sin bordes, excelente teclado y construcción de alta calidad. Combina potencia con un diseño premium y compacto.</p>
 
@@ -22,14 +22,14 @@ export const articles = [
           <h2>4. Microsoft Surface Laptop 6</h2>
           <p>Excelente dispositivo 2-en-1 con pantalla táctil de alta resolución. Su versatilidad permite usarla como laptop tradicional o tablet para tomar notas.</p>
 
-           <h2>5. Lenovo ThinkPad E16</h2>
-            <p>Conocida por su durabilidad y teclado excepcional. Una opción robusta que aguantará años de uso universitario intensivo.</p>
+          <h2>5. Lenovo ThinkPad E16</h2>
+          <p>Conocida por su durabilidad y teclado excepcional. Una opción robusta que aguantará años de uso universitario intensivo.</p>
 
-            <h2>6. ASUS Zenbook 14</h2>
-            <p> Delgada, ligera y con excelente autonomía. Su pantalla OLED ofrece colores vibrantes para trabajos creativos o consumo de contenido.</p>
+          <h2>6. ASUS Zenbook 14</h2>
+          <p> Delgada, ligera y con excelente autonomía. Su pantalla OLED ofrece colores vibrantes para trabajos creativos o consumo de contenido.</p>
 
-            <h2>7. HP Envy x360</h2>
-            <p>Una opción versátil y asequible con bisagra convertible. Buen rendimiento para tareas académicas generales y algunas más exigentes.</p>
+          <h2>7. HP Envy x360</h2>
+          <p>Una opción versátil y asequible con bisagra convertible. Buen rendimiento para tareas académicas generales y algunas más exigentes.</p>
         `,
   },
   {
