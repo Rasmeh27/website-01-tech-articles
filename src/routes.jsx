@@ -5,6 +5,8 @@ import Nav from "./components/Nav";
 import NavBar from "./components/Navbar";
 import Footer from "./components/Footer"; //Importar el componente Footer
 import TopGadgets2025 from "./pages/TopGadgets2025";
+import Computer from "./pages/Computers";
+import Laptops from "./pages/Laptops";
 
 export default function AppRoutes() {
   return (
@@ -15,6 +17,8 @@ export default function AppRoutes() {
         <Route path="/" element={<Home />} />
         <Route path="/article/:slug" element={<Article />} />
         <Route path="/productos" element={<TopGadgets2025 />} />
+        <Route path="/computers" element={<Computer />} />
+        <Route path="/laptops" element={<Laptops />} />
       </Routes>
       <Footer />
     </BrowserRouter>

@@ -34,12 +34,12 @@ export default function Nav() {
           </Link>
         </li>
         <li>
-          <Link to="/" className="flex items-center space-x-2">
+          <Link to="/computers" className="flex items-center space-x-2">
             <span>Computadoras</span>
           </Link>
         </li>
         <li>
-          <Link to="/" className="flex items-center space-x-2">
+          <Link to="/laptops" className="flex items-center space-x-2">
             <span>Laptops</span>
           </Link>
         </li>

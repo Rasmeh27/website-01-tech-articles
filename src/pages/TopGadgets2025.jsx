@@ -71,7 +71,6 @@ const TopGadgets2025 = () => {
             <p className="text-gray-700 mb-8">
             ¿Creías que lo habías visto todo? Te presentamos una selección de gadgets útiles, creativos y a veces inesperados que podrían mejorar tu día a día en 2025.
             </p>
-
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {gadgets.map((gadget, index) => (
                     <GadgetCard key={index} gadget={gadget} />
