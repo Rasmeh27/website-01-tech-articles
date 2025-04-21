@@ -27,7 +27,6 @@ export default function AppRoutes() {
         <Route path="/categorias/productos" element={<TopGadgets2025 />} />
         <Route path="/politicas" element={<PoliticaPrivacidad />} />
         <Route path="/about" element={<AcercaDe />} />
-        <Route path="*" element={<h1>404 Not Found</h1>} />
       </Routes>
       <Footer />
     </BrowserRouter>
