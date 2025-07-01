@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import CategoryDropdown from "./CategoryDropDown";
 import { Home, Package, Monitor, Laptop, Menu, X } from "lucide-react";

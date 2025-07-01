@@ -1,4 +1,3 @@
-import { FaSearch, FaHeart, FaShoppingCart, FaUser } from "react-icons/fa"; //Importar los iconos de react-icons
 
 export default function Navbar() {
   return (

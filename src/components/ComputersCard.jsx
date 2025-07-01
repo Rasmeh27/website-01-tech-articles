@@ -1,4 +1,4 @@
-import React from "react";
+
 import { ExternalLink, Star, Zap, Award, TrendingUp, Cpu, HardDrive, MemoryStick } from "lucide-react";
 
 const ComputersCard = ({ computer, index }) => {

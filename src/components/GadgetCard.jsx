@@ -1,5 +1,3 @@
-// src/components/GadgetCard.jsx
-import React from 'react';
 
 const GadgetCard = ({ gadget }) => {
   return (

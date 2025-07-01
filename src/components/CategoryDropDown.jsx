@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect } from "react";
 import { Grid3X3, ChevronDown, Laptop, Monitor, Package } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
