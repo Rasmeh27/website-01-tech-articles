@@ -1,4 +1,4 @@
-import React from "react";
+
 import { ExternalLink, Star, Zap, Award, TrendingUp, Smartphone, Wifi, Camera, Headphones, Monitor, Gamepad2 } from "lucide-react";
 
 const GadgetCard = ({ gadget, index }) => {

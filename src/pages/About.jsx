@@ -1,5 +1,4 @@
 // src/pages/AcercaDe.jsx
-import React from 'react';
 
 const AcercaDe = () => {
   return (

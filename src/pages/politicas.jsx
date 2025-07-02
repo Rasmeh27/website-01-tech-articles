@@ -1,5 +1,4 @@
 // src/pages/PoliticaPrivacidad.jsx
-import React from 'react';
 
 const PoliticaPrivacidad = () => {
   return (
