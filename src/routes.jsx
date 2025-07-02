@@ -8,11 +8,13 @@ import Computer from "./pages/Computers";
 import Laptops from "./pages/Laptops";
 import PoliticaPrivacidad from "./pages/politicas";
 import AcercaDe from "./pages/About";
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 export default function AppRoutes() {
   return (
     <BrowserRouter>
     <Nav /> 
+     <SpeedInsights />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/article/:slug" element={<Article />} />
