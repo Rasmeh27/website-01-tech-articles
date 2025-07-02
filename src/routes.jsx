@@ -2,7 +2,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Article from "./pages/Article";
 import Nav from "./components/Nav";
-import NavBar from "./components/Navbar";
 import Footer from "./components/Footer"; //Importar el componente Footer
 import TopGadgets2025 from "./pages/TopGadgets2025";
 import Computer from "./pages/Computers";
@@ -13,7 +12,6 @@ import AcercaDe from "./pages/About";
 export default function AppRoutes() {
   return (
     <BrowserRouter>
-    <NavBar />
     <Nav /> 
       <Routes>
         <Route path="/" element={<Home />} />
