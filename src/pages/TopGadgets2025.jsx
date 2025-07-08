@@ -4,22 +4,22 @@ import { Package, Star, TrendingUp, Award, Filter, Search, Smartphone, Wifi, Cam
 
 const gadgets = [
     {
-        title: "Mini Proyector Portátil WiFi",
+        title: "Skullcandy Hesh ANC",
         description: "Skullcandy Hesh ANC Wireless Over-Ear Bluetooth Headphones with Charging Cable, Active Noise Cancelling, Up to 22 Hrs Battery, Foldable Lightweight Design, Microphone for iPhone Android - Mod WhiteLleva tu cine a cualquier parte con este mini proyector inalámbrico. Ideal para películas, presentaciones y más.",
         image: "https://m.media-amazon.com/images/I/61vSt8bO6RL._AC_SL1500_.jpg",
         link: "https://amzn.to/4kok2jT"
     },
     {
-        title: "Lámpara LED con Cargador Inalámbrico",
-        description: "Ilumina tu escritorio y carga tu celular al mismo tiempo, con diseño moderno y regulable.",
-        image: "https://m.media-amazon.com/images/I/71IlL3q7znL._AC_SL1500_.jpg",
-        link: ""
+        title: "KALIDI",
+        description: "Tote Bag for Women Nylon Top-Handle Purse,Shoulder Hobo handBag with Zipper Leisure Foldable Weekend.",
+        image: "https://m.media-amazon.com/images/I/715UbN+IN8L._AC_SY575_.jpg",
+        link: "https://amzn.to/46DfUsW"
     },
     {
-        title: "Teclado Mecánico Compacto RGB",
-        description: "Ideal para trabajar o jugar, con iluminación personalizable y tamaño perfecto para cualquier setup.",
-        image: "https://m.media-amazon.com/images/I/71oooMQxjLL._AC_SL1500_.jpg",
-        link: ""
+        title: "Skullcandy Hesh Evo",
+        description: "Wireless Over-Ear Bluetooth Headphones with Charging Cable, Noise Isolating, Up to 36 Hours Battery, Foldable Lightweight Design, Microphone for iPhone Android - Bone.",
+        image: "https://m.media-amazon.com/images/I/616+GoE-0mL._AC_SX466_.jpg",
+        link: "https://amzn.to/44R4Wie"
     },
     {
         title: "Amazon Fire TV Stick",
