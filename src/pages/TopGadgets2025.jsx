@@ -5,9 +5,9 @@ import { Package, Star, TrendingUp, Award, Filter, Search, Smartphone, Wifi, Cam
 const gadgets = [
     {
         title: "Mini Proyector Portátil WiFi",
-        description: "Lleva tu cine a cualquier parte con este mini proyector inalámbrico. Ideal para películas, presentaciones y más.",
-        image: "https://m.media-amazon.com/images/I/61DLzqzP6mL._AC_SL1500_.jpg",
-        link: ""
+        description: "Skullcandy Hesh ANC Wireless Over-Ear Bluetooth Headphones with Charging Cable, Active Noise Cancelling, Up to 22 Hrs Battery, Foldable Lightweight Design, Microphone for iPhone Android - Mod WhiteLleva tu cine a cualquier parte con este mini proyector inalámbrico. Ideal para películas, presentaciones y más.",
+        image: "https://m.media-amazon.com/images/I/61vSt8bO6RL._AC_SL1500_.jpg",
+        link: "https://amzn.to/4kok2jT"
     },
     {
         title: "Lámpara LED con Cargador Inalámbrico",
